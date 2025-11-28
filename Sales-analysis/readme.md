@@ -32,4 +32,4 @@ Columns include: `Product`, `Category`, `Region`, `Sale`, `Quantity`, `Unit Pric
   - Fruits: 2345 sales  
   → Vegetables outperform fruits in sales amount.
 
-## 📂 Repository Structure
+
